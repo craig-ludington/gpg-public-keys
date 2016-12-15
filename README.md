@@ -1,6 +1,6 @@
 ## Public keys
 
-Personal and work GnuPG public keys.  Don't forget to view raw -- markdown shows them as HTML.
+Personal and work GnuPG public keys.
 
 ### Personal
 * `EDF4 74B1 C642 BBFE E72A  0B88 00F3 4B7E 3079 CBFF`
